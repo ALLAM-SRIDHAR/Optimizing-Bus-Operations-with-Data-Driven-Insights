@@ -1,0 +1,1 @@
+This is the Project Architecture We have fllowed, but in later stages of the project we have also included the Excel Analysis, Google Data Studio Analysis too.

@@ -3,14 +3,15 @@ A leading bus transportation company seeks to optimize pricing and scheduling us
 
 ## Project Scope:
 
-#### Data Collection & Cleaning – Refine ticket sales data
-#### Travel Pattern Analysis – Identify patterns
-#### Pricing Optimization – Develop data-driven fare strategies
-#### Bus Scheduling Optimization – Align schedules with demand
-#### Visualization & Reporting – Deliver insights via dashboards
+##### Data Collection & Cleaning – Refine ticket sales data
+##### Travel Pattern Analysis – Identify patterns
+##### Pricing Optimization – Develop data-driven fare strategies
+##### Bus Scheduling Optimization – Align schedules with demand
+##### Visualization & Reporting – Deliver insights via dashboards
 
 
 
+## Project Details:
 
 ## Client: 
 A Leading Bus Transportation Company

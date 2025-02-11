@@ -1,0 +1,1 @@
+Since we cannot create visualizations in SQL, so we used SQL to load the data to the MySQL, then perform Analysis on the Dataset Loaded in MySQL and performed EDA and Preprocessing of the Data using SQL

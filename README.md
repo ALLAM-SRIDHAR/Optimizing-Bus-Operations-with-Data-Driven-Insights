@@ -1,3 +1,3 @@
-#Project Overview:
+# Project Overview:
 A leading bus transportation company seeks to optimize pricing and scheduling using ticket sales data. By analyzing travel patterns, fare structures, and demand trends, the project aims to enhance revenue, improve service efficiency, and ensure data accuracy and compliance.
 

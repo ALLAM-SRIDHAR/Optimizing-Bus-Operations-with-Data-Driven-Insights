@@ -18,4 +18,4 @@ Improve on-time performance and service availability by aligning schedules with 
 
 ## Economic Success Criteria: 
 Identify pricing strategies that maximize ticket sales and revenue during peak and off-peak hours
-![image](https://github.com/user-attachments/assets/62b40caf-5fe7-45cc-bcfc-d571ea1e0187)
+
